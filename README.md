@@ -42,4 +42,6 @@ Este projeto é um jogo da memória interativo com uma temática cigana, desenvo
 4. O objetivo é encontrar todos os pares no menor tempo possível.
 5. Ao completar o jogo, uma mensagem de parabéns será exibida com o tempo total.
 
----
+## Status do Projeto
+
+**Este projeto ainda não está finalizado.** Algumas funcionalidades estão em desenvolvimento, e melhorias estão sendo implementadas.
